@@ -25,6 +25,10 @@ Simply include the HTML and CSS files in your project and customize the styles a
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+---
 
+## Project Preview
 
-https://x.com/dev_samreen/status/1957696127882654192/photo/1
+Click the image below to view the project on Twitter:
+
+[![Project Preview](https://x.com/dev_samreen/status/1957696127882654192/photo/1)]
