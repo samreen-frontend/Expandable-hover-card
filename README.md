@@ -31,4 +31,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Click the image below to view the project on Twitter:
 
-[![Project Preview](https://x.com/dev_samreen/status/1957696127882654192/photo/1)]
+[![Project Preview](https://x.com/dev_samreen/status/1957696127882654192/photo/1)](https://x.com/dev_samreen/status/1957696127882654192/photo/1)
+
